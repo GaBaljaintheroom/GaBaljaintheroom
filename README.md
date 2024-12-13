@@ -44,6 +44,9 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@junsu1222/posts">
         <img src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white">
   </a>
+  <a href="https://www.linkedin.com/in/%EC%A4%80%EC%88%98-%EB%B0%95-585029266/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+  </a>
 </div>
 <div align='left'>
   <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=junsu1222&color=black">
