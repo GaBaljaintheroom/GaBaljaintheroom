@@ -46,5 +46,5 @@ Here are some ideas to get you started:
   </a>
 </div>
 <div align='left'>
-  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=junsu1222&color=white">
+  <img width="49%" src="https://velog-readme-stats.vercel.app/api?name=junsu1222&color=black">
 </div>
